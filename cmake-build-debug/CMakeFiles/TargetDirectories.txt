@@ -1,0 +1,3 @@
+/Users/admin/Hub/Shed/clients/shellpanel/apps/listoflibs/cmake-build-debug/CMakeFiles/listoflibs.dir
+/Users/admin/Hub/Shed/clients/shellpanel/apps/listoflibs/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/admin/Hub/Shed/clients/shellpanel/apps/listoflibs/cmake-build-debug/CMakeFiles/rebuild_cache.dir
